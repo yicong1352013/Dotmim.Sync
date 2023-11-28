@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <Title>$(AssemblyName)</Title>    
+    <Authors>Murry.yi</Authors>    
+    <Company>HJTech</Company>    
+    <PackageOutputPath>..\..\packages</PackageOutputPath>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+    <Copyright>©HJTech 2023</Copyright>
+    <IncludeSymbols>True</IncludeSymbols>
+    <Company>HJTech</Company>
+    <Product>HJWMS</Product>
+    <Copyright>HJTech</Copyright>
+  </PropertyGroup>
+
+</Project>    
